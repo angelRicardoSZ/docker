@@ -1,0 +1,3 @@
+use new_db
+db.users.insert({"name":"ang"})
+db.users.find()
